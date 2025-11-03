@@ -25,7 +25,7 @@
 <script setup>
 import { ref } from 'vue'
 import SurpriseMessage from '~/components/SurpriseMessage.vue'
-import ShulegSection from '~/components/Shuleg.vue'
+import ShulegSection from '~/components/shuleg.vue'
 import confetti from 'canvas-confetti'
 
 const showMessage = ref(false)
